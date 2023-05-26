@@ -1,0 +1,4 @@
+{
+    "function": "AssetExists",
+    "args": ["fuckme","deviceID69"]
+}

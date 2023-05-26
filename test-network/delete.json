@@ -1,0 +1,5 @@
+{
+    "function": "DeleteAsset",
+    "args": ["fuckme",  "deviceID1"]
+
+}
