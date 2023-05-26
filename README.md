@@ -54,6 +54,10 @@ This chaincode uses the following libraries:
 
 We welcome contributions to this project. Please feel free to submit issues and pull requests.
 
+## Front end images
+
+<image src="UI.png">
+
 ## License
 
 This project is licensed under the Apache 2.0 License. For more information, see the [LICENSE](LICENSE) file.
